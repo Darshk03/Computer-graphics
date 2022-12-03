@@ -32,7 +32,7 @@ int main()
 	l1.getdata();
 	
 	int gd = DETECT , gm;
-	initgraph( &gd , &gm , NULL);
+	initgraph( &gd , &gm , NULL); // gd = Graph Driver , gm = graph mode
 	
 	l1.display();
 	delay(30000);
