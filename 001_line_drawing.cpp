@@ -24,7 +24,7 @@ void draw_line :: getdata()
 
 void draw_line :: display()
 {
-line ( x1 , y1 , x2 , y2);
+line ( x1 , y1 , x2 , y2);  // line command is to display the line
 }
 int main()
 {
