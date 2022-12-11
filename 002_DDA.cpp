@@ -41,5 +41,6 @@ int main()
 	}
 	
 	delay(30000);
+	close graph();
 	return 0;
 }
