@@ -1,4 +1,4 @@
-Instruction for adding graphics file in Code::Blocks
+Instruction for adding graphics file in Code::Blocks and dev c++
 ***************************************************************************************************
 
 1) Copy "graphics.h" and "winbgim.h" files to "include" folder of CodeBlocks directory.
